@@ -122,6 +122,13 @@ module.exports.list = [
     tech_stack: ['Node', 'JavaScript', 'Express'],
     github_username: 'divanshi15',
     twitter_username: '#',
+  },  {
+    name: 'Charlie',
+    country: 'France',
+    role: 'Undergraduate',
+    tech_stack: ['Php', 'JavaScript', 'Vue'],
+    github_username: 'charlie-ld',
+    twitter_username: '#',
   },
   {
     name: 'Naivedh',
